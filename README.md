@@ -19,8 +19,8 @@ The dataset for this project is sourced from [Kaggle](https://www.kaggle.com/com
 ## Notebooks and files 📓
 
 - `EDA.ipynb`: Data exploration and visualization.
-- `data_split.ipynb`: Model training and evaluation.
-- `Data/`: data imported from [Kaggle](https://www.kaggle.com/competitions/playground-series-s4e2/data).
+- `data_split.ipynb`: Data split.
+- `Data/`: Data imported from [Kaggle](https://www.kaggle.com/competitions/playground-series-s4e2/data) and split into training, testing and validation data frames.
 
 ## Results 📊
 
