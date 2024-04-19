@@ -1,6 +1,6 @@
 # Multi-Class Prediction of Obesity Risk 📊
 
-This repository contains code and resources for the Multi-Class Prediction of Obesity Risk project. The original idea of project comes from [Kaggle Competitions](https://www.kaggle.com/competitions/playground-series-s4e2/data).
+This repository contains code and resources for the Multi-Class Prediction of Obesity Risk project. The original idea of the project comes from [Kaggle Competitions](https://www.kaggle.com/competitions/playground-series-s4e2/data).
 The objective is to predict the risk of obesity using machine learning techniques.
 
 ## Data 📈
