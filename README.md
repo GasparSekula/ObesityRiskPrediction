@@ -3,7 +3,7 @@
 This project aims to develop a machine learning model to predict the risk of obesity based on various health and lifestyle factors. The dataset provides a range of features that are used to identify individuals at risk of obesity.
 
 ## Developers
-Developed by: Developed by: [@Gaspar Sekula](https://github.com/GasparSekula) & [@Ula Szczęsna](https://github.com/ulaszczesna) & [@Mateusz Deptuch](https://github.com/DeptuchMateusz)
+Developed by: [@Gaspar Sekula](https://github.com/GasparSekula) & [@Ula Szczęsna](https://github.com/ulaszczesna) & [@Mateusz Deptuch](https://github.com/DeptuchMateusz)
 
 
 ## 📊 Dataset
